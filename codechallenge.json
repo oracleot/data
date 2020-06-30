@@ -3,24 +3,28 @@
   "job_title": "Frontend Developer",
   "meetups": [
     {
+      "event_id": "NwQXu8cH6XhJG7yB",
       "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490618673/500x280.jpg",
       "event_title": "Introduction to Microsoft Azure IoT",
       "event_description": "",
       "event_date": "Saturday, July 3, 2020"
     },
     {
+      "event_id": "CPtfXv2wumy66WKk",
       "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/459544795/500x280.jpg",
       "event_title": "Linear Modeling And Data Visualization",
       "event_description": "",
       "event_date": "Friday, July 4, 2020"
     },
     {
+      "event_id": "zdRUCNL2pLh8wpd3",
       "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490590841/500x280.jpg",
       "event_title": "Android 11 Meetup",
       "event_description": "",
       "event_date": "Saturday, July 18, 2020"
     },
     {
+      "event_id": "Xa8akJP562RmLyEc",
       "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490901318/500x280.jpg",
       "event_title": "Freelance and remote jobs",
       "event_description": "",
