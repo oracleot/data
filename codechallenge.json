@@ -25,10 +25,92 @@
     },
     {
       "event_id": "Xa8akJP562RmLyEc",
-      "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490901318/500x280.jpg",
+      "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490972777/440x280.webp",
       "event_title": "Freelance and remote jobs",
       "event_description": "",
       "event_date": "Saturday, July 25, 2020"
+    }
+  ],
+  "leap_events": [
+    {
+      "event_id": "Dx9rSYQuJUgr7pVY",
+      "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490903723/440x280.jpg",
+      "event_title": "Idea Validation: How good is your idea really?",
+      "event_description": "",
+      "event_date": "Tuesday, June 30, 2020"
+    },
+    {
+      "event_id": "SQRpMhcBwxsjg5sJ",
+      "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490512916/440x280.jpg",
+      "event_title": "Financial Modelling Office Hour",
+      "event_description": "",
+      "event_date": "Monday, July 6, 2020"
+    },
+  ],
+  "recruiting_mission": [
+    {
+      "event_id": "bU3Drwj5Q76panq7",
+      "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/491002568/440x280.jpg",
+      "event_title": "Indepth Ratio Analysis without Numbers",
+      "event_description": "",
+      "event_date": "Thursday, July 16, 2020"
+    },
+    {
+      "event_id": "DUC8xzWmH5Gajm3d",
+      "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490972777/440x280.jpg",
+      "event_title": "How to manage a remote team in a Post-COVID World",
+      "event_description": "",
+      "event_date": "Monday, July 6, 2020"
+    },
+  ],
+  "vanhackathon": [
+    {
+      "event_id": "8AWXVmXyCsb4f8gD",
+      "event_banner": "https://www.meetup.com/gb_static/static/group_fallback_large_4-7c9914547ebeb977647a36af55b4e53c.jpg",
+      "event_title": "An Indepth Look Into WebFLow",
+      "event_description": "",
+      "event_date": "Saturday, July 4, 2020"
+    },
+    {
+      "event_id": "mEbPmyBTs3xGSL8Y",
+      "event_banner": "https://secure-content.meetupstatic.com/images/classic-events/490972777/440x280.jpg",
+      "event_title": "How to manage a remote team in a Post-COVID World",
+      "event_description": "",
+      "event_date": "Monday, July 6, 2020"
+    },
+    ,
+  "webinars": [
+    {
+      "webinar_id": "r5qpBufb4Kn9uCSc",
+      "webinar_type": "open",
+      "webinar_banner": "https://secure-content.meetupstatic.com/images/classic-events/491013141/440x280.jpg",
+      "webinar_title": "AMA Session with Sandi",
+      "webinar_description": "",
+      "webinar_date": "Friday, July 3, 2020"
+    },
+    {
+      "webinar_id": "52CzaHprEAzpPudb",
+      "webinar_type": "open",
+      "webinar_banner": "https://secure-content.meetupstatic.com/images/classic-events/490903855/440x280.jpg",
+      "webinar_title": "Idea Validation: How Good Is Your Idea Really?",
+      "webinar_description": "",
+      "webinar_date": "Monday, July 6, 2020"
+    },
+    {
+      "webinar_id": "APtv9WJExZQjQHsL",
+      "webinar_type": "premium",
+      "webinar_banner": "https://secure-content.meetupstatic.com/images/classic-events/490972777/440x280.jpg",
+      "webinar_title": "How To Reach Out To That Desired Employer",
+      "webinar_description": "",
+      "webinar_date": "Tuesday, July 7, 2020"
+    },
+    {
+      "webinar_id": "DbsG6EREV2mTMPCf",
+      "webinar_type": "open",
+      "webinar_banner": "https://secure-content.meetupstatic.com/images/classic-events/490198863/440x280.jpg",
+      "webinar_title": "Online Forex Hangout with Oyinade",
+      "webinar_description": "",
+      "webinar_date": "Friday, July 10, 2020"
     }
   ]
 }
